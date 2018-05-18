@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="cn">
+<head>
+  <meta charset="utf-8">
+  <title>「梦里幽境」 - 下载与支持</title>
+  <link href="assets/common/style.css" rel="stylesheet" type="text/css">
+  <link rel="shortcut icon" href="./assets/logo/mcfenlogo.png">
+  <link href="assets/home/style.css" rel="stylesheet" type="text/css">
+</head>
+<body ondragstart="return false" oncontextmenu="return false" onselectstart="return false">
+<div id="bar">
+  <ul class="flex-center">
+    <li>
+      <h3>&nbsp; 下载与支持</h3>
+    </li>
+  </ul>
+</div>
+
+<div class="content">
+  <div id="page">
+    <div class="wrapper">
+
+      <div class="column">
+        <h1>梦里幽境</h1>
+        <br>
+		<a href=""><img src="http://onhkaht8d.bkt.clouddn.com/mcfen_keai.png" alt="Worthy"></a>
+		<a><img src="http://onhkaht8d.bkt.clouddn.com/mcfen_260.png"></a>
+		<br>
+        <ul class="button-column">
+         <li onclick="window.open('http://520.mcfen.net/Dear_friend/520.htm')">
+            <h1>Something to say</h1>
+            <h2>一些想说的话</h2>
+          </li>
+          <li onclick="window.open('http://520.mcfen.net/')">
+            <h1>关于我们<i class="fab fa-discord"></i></h1>
+            <h2>一些古老的历史回顾</h2>
+          </li>		  
+        </ul>
+
+<ul class="dl-column">
+<li >
+  <body><div class="time"> 
+       <br>
+       <b>梦里幽境初创至今已</b>
+	   <br><br>
+        <span id="t_d">00天</span>  
+        <span id="t_h">00时</span>  
+        <span id="t_m">00分</span>  
+        <span id="t_s">00秒</span>  
+    <span id="mcfen"></span>  
+    </div>  	
+<script>  
+   function GetRTime(){  
+       var EndTime= new Date();
+       var NowTime = new Date('2017/02/14 14:58:22');//这里设置你预定的时间    
+       var t =EndTime.getTime() - NowTime.getTime();  
+       var d=Math.floor(t/1000/60/60/24);  
+       var h=Math.floor(t/1000/60/60%24);  
+       var m=Math.floor(t/1000/60%60);  
+       var s=Math.floor(t/1000%60);  
+  
+       document.getElementById("t_d").innerHTML = d + "天";  
+       document.getElementById("t_h").innerHTML = h + "时";  
+       document.getElementById("t_m").innerHTML = m + "分";  
+       document.getElementById("t_s").innerHTML = s + "秒";  
+       if(s=="0" && m=="0" && h=="0" && d=="0"){  
+       document.getElementById("mcfen").innerHTML ="梦里幽境初创日";//到期提醒  
+       document.getElementById("mcfen").style.color="red";}  
+}  
+   setInterval(GetRTime,0);  
+     
+</script>   
+</body>  
+</li>
+</ul>
+        <br>
+      </div>
+
+      <div class="column">
+        <h1>下载支持</h1>
+        <p>提供服务器客户端下载.</p>
+        <br><br><br><br>
+        <ul class="dl-column">
+          <li id="官方客户端" onclick="location.href = 'http://www.ppaann.com/down.php?uid=1234&files=8152952077469865'" >
+            <br>
+			<b>官方客户端</b>
+            <h2>版本:  1.12.2</h2>
+            <span style="font-size: 23px"><i class="fas fa-download"></i></span>
+            <h2>更新时间:2018.01.22</h2>
+          </li>
+		  <br><br><br>
+          <li id="nukkit-dl" onclick="window.open('http://www.mcbbs.net/forum-modpack-1.html')" >
+		  <br>
+            <b>MCBBS客户端发布区</b>
+            <h2>版本:  多种选择</h2>
+            <span style="font-size: 22px"><i class="fas fa-download"></i></span>
+            <h2>请注意电脑安全,自主判断可用性</h2>
+          </li>
+          <li id="nukkit-dl" onclick="window.open('http://www.mcbbs.net/forum-mod-1.html')" >
+		  <br>
+            <b>MCBBS模组发布区</b>
+            <h2>版本:  多种选择</h2>
+            <span style="font-size: 22px"><i class="fas fa-download"></i></span>
+            <h2>请注意电脑安全,自主判断可用性</h2>
+          </li>
+        </ul>
+      </div>
+
+      <div class="column">
+        <h1>帮助支持</h1>
+        <br><br><br><br><br><br>
+	   <a style="font-size:14px;">服务器和原版游戏存在较大区别,服务器内需要用到较多的插件去执行各种命令.</a>
+        <br><br>
+       <a style="font-size:14px;">想要流畅的在服务器内游戏,需要记住一些常用的命令,一般来说多用几次就会慢慢熟悉,不需要太过担心自己会记不住各种命令.</a>
+        <br><br><br><br>
+
+         <ul class="button-column">
+          <li onclick="window.open('support/index.htm')">
+            <h1>『常用命令』</h1>
+            <h2>列举大部分常用命令.</h2>
+          </li>
+		  <br>
+          <li onclick="window.open('http://www.mcbbs.net/thread-726513-1-1.html')">
+            <h1>『服务器宣传贴』</h1>
+            <h2>MCBBS服务器宣传贴.</h2>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="footer">
+  <a onclick="window.open('https://jq.qq.com/?_wv=1027&k=4BvLGow')"  class="github-corner" title="点我加入玩家交流群" >
+    <svg width="60" height="60" viewBox="0 0 250 250">
+      <path d="M0 0l115 115h15l12 27 108 108v-250z"/>
+      <path d="M128.3 109c-14.5-9.3-9.3-19.4-9.3-19.4 3-6.9 1.5-11 1.5-11-1.3-6.6 2.9-2.3 2.9-2.3 3.9 4.6 2.1 11 2.1 11-2.6 10.3 5.1 14.6 8.9 15.9" style="transform-origin:130px 106px" class="octo-arm"/>
+      <path d="M115 115c-.1.1 3.7 1.5 4.8.4l13.9-13.8c3.2-2.4 6.2-3.2 8.5-3-8.4-10.6-14.7-24.2 1.6-40.6 4.7-4.6 10.2-6.8 15.9-7 .6-1.6 3.5-7.4 11.7-10.9 0 0 4.7 2.4 7.4 16.1 4.3 2.4 8.4 5.6 12.1 9.2 3.6 3.6 6.8 7.8 9.2 12.2 13.7 2.6 16.2 7.3 16.2 7.3-3.6 8.2-9.4 11.1-10.9 11.7-.3 5.8-2.4 11.2-7.1 15.9-16.4 16.4-30 10-40.6 1.6.2 2.8-1 6.8-5 10.8l-11.7 11.6c-1.2 1.2.6 5.4.8 5.3z" class="octo-body"/>
+    </svg>
+  </a>
+  <ul class="flex-center">
+    <li>
+      <a>思念你 在梦里 散不去</a>
+    </li>
+	 <p class="text-center"><a href="http://bbs.mcfen.net/" target="_blank" stat="fbar1001">玩家论坛</a>|<a href="http://520.mcfen.net/" target="_blank" stat="fbar1003">关于我们</a>|<a href="http://pay.mcfen.net/" target="_blank" stat="fbar1004">赞助支持</a>|<a href="mailto:dreammc@aliyun.com" target="_blank" stat="fbar1005">反馈邮箱</a>|<a href="https://jq.qq.com/?_wv=1027&k=4BvLGow" target="_blank" stat="fbar1006">联系我们</a></p>
+   <br>
+   <li><a href="http://www.mcfen.net/" tppabs="http://520.mcfen.net/" target="_blank">© 2014-2017  初入mc - 梦境 - 梦里幽境</a></li>
+  </ul>
+</div>
+</body>
+</html>
