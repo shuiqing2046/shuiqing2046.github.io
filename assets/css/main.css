@@ -1,7 +1,7 @@
 @import url("font-awesome.min.css");
 
 /*
-  偷看源码的坏银
+  偷看源码的都是坏银
       -梦里幽境
 */
 
@@ -1992,7 +1992,7 @@
 			-webkit-transition: opacity 0.2s ease-in-out;
 			-ms-transition: opacity 0.2s ease-in-out;
 			transition: opacity 0.2s ease-in-out;
-			background: url("http://onhkaht8d.bkt.clouddn.com/pay-overlay.png");
+			background: url("../../assets/css/images/pay-overlay.png");
 			border-radius: 0.35em;
 			content: '';
 			display: block;
@@ -2016,13 +2016,13 @@
 				border-radius: 0.35em;
 				border: solid 3px rgba(255, 255, 255, 0.5);
 				color: #fff;
-				content: '查看';
+				content: '点击查看大图';
 				display: inline-block;
-				font-size: 0.8em;
+				font-size: 1em;
 				font-weight: 400;
 				left: 50%;
 				line-height: 2.25em;
-				margin: -1.25em 0 0 -3em;
+				margin: -1.25em 0 0 -4.5em;
 				opacity: 0;
 				padding: 0 1.5em;
 				position: absolute;
@@ -2037,7 +2037,7 @@
 			}
 
 			.image.thumb:hover:before {
-				background: url("http://onhkaht8d.bkt.clouddn.com/pay-overlay.png"), url("http://onhkaht8d.bkt.clouddn.com/pay-overlay.png");
+				background: url("../../assets/css/images/pay-overlay.png"), url("../../assets/css/images/pay-overlay.png");
 				opacity: 1.0;
 			}
 
