@@ -43,7 +43,7 @@ a{
 }
 .logo{
   width: 100%;
-  background: url(https://img02.sogoucdn.com/app/a/100520146/915D4ABB342AB0194607B37BBDA92A8F) no-repeat;
+  background: url(../img/head.png) no-repeat;
   background-size: 100% 100%;
   overflow: hidden;
   border-top-left-radius: 10px;
