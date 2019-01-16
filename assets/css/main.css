@@ -2459,7 +2459,6 @@
 		}
 
 /* Header */
-/* 背景图在此 */
 
 	#header {
 		display: -moz-flex;
@@ -2480,7 +2479,7 @@
 		justify-content: space-between;
 		background-color: #1f1815;
 		background-attachment: scroll,								fixed;
-		background-image: url("../../images/overlay.png"), url("https://img04.sogoucdn.com/app/a/100520146/CD107616BFEA9BED2FC5314B8123472A");
+		background-image: url("../../images/overlay.png"), url("https://wx4.sinaimg.cn/large/60e61f9fgy1ftn3n0has1j20ze0zeabe.png");
 		background-position: top left,							top left;
 		background-repeat: repeat,								no-repeat;
 		background-size: auto,								auto 100%;
