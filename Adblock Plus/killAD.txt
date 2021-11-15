@@ -1,4 +1,7 @@
-http://cdn.pcbeta.img.inimc.com/static/image/pcbeta/pcbetanews_qrcode.jpg
+[Adblock Plus 3.1]
+! Version: 20211116
+! Title: ABP by mcfen
+
 ||t3.qpic.cn/mblogpic/a4056420f3b216a1b572/2000
 ||y1.ifengimg.com/index/2013/10/18/weixin/wx.gif
 ||50.7.98.27/10.gif
