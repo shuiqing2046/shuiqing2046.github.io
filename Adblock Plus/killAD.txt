@@ -1,7 +1,7 @@
 [Adblock Plus 3.11.x]
 ! Version: 20211116
 ! Title: ABP by Mcfen
-
+! Homepage: https://github.com/shuiqing2046/shuiqing2046.github.io/tree/master/Adblock%20Plus
 
 http://cdn.pcbeta.img.inimc.com/static/image/pcbeta/pcbetanews_qrcode.jpg
 ||t3.qpic.cn/mblogpic/a4056420f3b216a1b572/2000
