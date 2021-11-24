@@ -51,12 +51,6 @@ http://cdn.pcbeta.img.inimc.com/static/image/pcbeta/wenzhang.jpg
 ||ww4.sinaimg.cn/large/5431d036tw1eqnhptez8vg20k801o3yh.gif
 ||yxzoo.com/uploads/allimg/150313/1-150313112431.jpg
 ||zdfans.com/wp-content/upgrade/doujind.gif
-||66.212.29.90/83/1x1.gif
-||66.212.29.90/83/0x0.gif
-||66.212.29.90/83/1x2.gif
-||198.55.121.142/83/1x1.gif
-||198.55.121.142/83/tw001.jpg
-||198.55.121.142/83/0x0.gif
 ||ww3.sinaimg.cn/large/0066A9h6gw1eu9mh71ry0g306y06ygyk.gif
 ||img.ithome.com/images/v2.1/downsoftmaster.gif
 ||ni.ppsrc.com/EO6rmmSfWqPHFCEJTB-wgQ
@@ -81,11 +75,9 @@ http://cdn.pcbeta.img.inimc.com/static/image/pcbeta/wenzhang.jpg
 ||xlfans.com/wp-content/uploads/2016/01/30%E5%A4%A9.jpg
 ||dayanzai.me/image/02.jpg
 ||p0.ifengimg.com/fe/zxyc-index/images/img4_61f90fe4.jpg
-||117.21.192.11/uploadFiles/youy/%E7%BA%A2%E5%8C%85%20PC.png
 ||ww3.sinaimg.cn/large/53bcd254jw1f3lia1f4eaj20k803cwf8.jpg
 http://actimgs.cn5588.cn/adUploads/20160909/57d2c682158ed.jpg
 ||actimgs.cn5588.cn/adUploads/20160908/57d0d29e0496d.jpg
-||117.21.192.11/uploadFiles/youy/PC%E7%AB%AF%E6%8E%A8%E9%80%81.jpg
 ||p0.ifengimg.com/fe/news_photo_bigEvent/images/weixin_9c250fcd.jpg
 ||img2.91.com/uploads/allimg/160328/151-16032Q505430-L.jpg
 ||img1.91.com/uploads/images/sj/v3/images/zhangshang91ios_erweimaxiazia.jpg
