@@ -10,18 +10,12 @@ mylivewallpapers.com##.chp_ads_blocker-overlay.active
 http://cdn.pcbeta.img.inimc.com/static/image/pcbeta/pcbetanews_qrcode.jpg
 ||t3.qpic.cn/mblogpic/a4056420f3b216a1b572/2000
 ||y1.ifengimg.com/index/2013/10/18/weixin/wx.gif
-||50.7.98.27/10.gif
-||50.7.98.226/x1.gif
-||204.45.75.78/0/20.jpg
-||a.ajaj.be/img/sp003.jpg
-||204.45.75.78/0/x2.gif
 ||bbs.922home.com:2008/img/20060219-233020_24982.gif
 ||y1.ifengimg.com/a/2014/0404/weixin_financev2.png
 bbs.pcbeta.comweixinqr
 ||yy.com/index/love/tieba?id=0&forum_name=%E4%BA%A4%E5%8F%8B&ie=utf-8&forum_id=18&ie=utf-8&bd_info=yYUEtMHqeiwWDbOACBFEyFWL6UpSCVFGgkE3IPjISZfOlc53vyx1GPpXcx94WOcokP8pYjtoZq4eEPfKxZlGrFEEI3l6FQ7Tb5TWqKms4CohKpbinUc%2BhoRrHvkRsjZs3%2BcpAM9Nb2Na9kVBTe4XHcrPE%2Bcse5sTVgi4qCorN7Sa6z2gzKFP4oX281hKzErlg1TOkS9ee%2BEV6pbgAz4r1pOz%2F3iNb2jZSaoMk2JBkbzPR4EIJrVcrqZ%2BQhmzQUfPBaFCYjvA67apJydtC%2BZouw%3D%3D&ie=utf-8&bd_sign=ed4ab441ac2cce4a20aafb9aa5ac95ba&ie=utf-8&bd_appid=3423019&ie=utf-8
 ||p8.qhimg.com/d/inn/cd2d49dd/sign.jpg
 p0.qhimg.com/t012d4400b6c3003ade.jpg
-||192.210.62.195/x1.gif
 ||bbs.922home.com:2008/img/00.gif
 ||bbs.922home.com:2008/img/fg2.gif
 ||bbs.922home.com:2008/img/gold.gif
@@ -39,7 +33,6 @@ p0.qhimg.com/t012d4400b6c3003ade.jpg
 ||static.cnbetacdn.com/assets/images/placeholder.gif
 ||img1.91.com/uploads/game/2014/09/04/280x133mt.jpg
 ||p3.qhimg.com/t01703db83d821ef98d.png
-||61.164.108.104:4275/df.gif
 http://cdn.pcbeta.img.inimc.com/static/image/pcbeta/wenzhang.jpg
 ||qq.bbs321.com/83/1x1.gif
 ||qq.bbs321.com/83/1x2.gif
@@ -73,9 +66,6 @@ http://cdn.pcbeta.img.inimc.com/static/image/pcbeta/wenzhang.jpg
 ||zdfans.com/Picture/recommend.gif
 ||itmxc.com/mxc-news/52ka/kameng.jpg
 ||y3.ifengimg.com/a/2015/1113/ewCode.gif
-||66.212.29.90/83/4.jpg
-||117.21.192.11/uploadFiles/youy/%E5%8D%87%E7%BA%A7%E5%85%89%E7%BA%A4%E6%8E%A8%E9%80%81%E5%9B%BE%E7%89%8720151104.jpg
-||198.55.121.142/83/4.jpg
 ||i5.tietuku.com/35e7163356dabf7at.jpg
 ||rt22.net/game1.html
 ||i5.tietuku.com/6a6252ea597e4727t.jpg
@@ -174,7 +164,6 @@ www.ithome.com##.text2
 www.ifeng.com##.weixin
 v.ifeng.com##.modRecommend
 v.ifeng.com##.modReco_box
-98.126.72.189##.tac
 www.lrshare.com##.textwidget
 www.lrshare.com##.widget-title
 finance.ifeng.com###wx
