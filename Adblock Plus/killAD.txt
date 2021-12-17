@@ -1,8 +1,14 @@
 [Adblock Plus 3.1]
-! Version: 20211124
+! Version: 20211218
 ! Title: ABP by Mcfen
 ! Homepage: https://github.com/shuiqing2046/shuiqing2046.github.io/tree/master/Adblock%20Plus
 
+423down.com##.fnqkgaqp-modal.active
+423down.com##.fnqkgaqp-wrapper
+423down.com##.fnqkgaqp-blackout.active
+mcbbs.net###Ag9b
+mcbbs.net###Ax6rY2
+||attachment.mcbbs.net/data/myattachment/portal/202112/06/091240kcev4lcectqe6vcn.gif
 mylivewallpapers.com###chp_ads_blocker-modal
 mylivewallpapers.com##.chp_ads_blocker_detector.chp_ads_blocker_detector-show
 mylivewallpapers.com###chp_ads_blocker-overlay
