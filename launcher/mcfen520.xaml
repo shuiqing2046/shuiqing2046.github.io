@@ -1,4 +1,4 @@
-﻿
+
 <!-- 这是 PCL2 的主页自定义文件。你可以通过修改这个文件来自定义 PCL2 主页：添加文本、打开网页、启动游戏，等等。
      如果你倒腾这个文件把 PCL2 玩炸了，把这个文件直接删除就行了。
      如果你懂得 WPF 的布局文件编写，你甚至可以做出不少的新玩意儿…… -->
@@ -21,7 +21,7 @@
         <local:MyHint Margin="0,8,0,2" IsWarn="False" 
                    Text="服务器接受无偿捐助及内购付费增值业务,但并不会区分对待付费玩家,收费仅为可有可无的姜太公钓鱼愿者上钩行为,有当然很好,没有也无所谓...&#xA;感激所有帮助过我们的朋友,但不代表会特别优待或给特权,希望大家都能保持正常的心态进行游戏,不要害怕或者巴结管理员,有任何问题都可以联系管理员." />
         <TextBlock TextWrapping="Wrap" Margin="0,6,0,0" HorizontalAlignment="Center"
-                   Text="Copyright © 2014-2021" />
+                   Text="Copyright © 2014-2022" />
    </StackPanel>
 </local:MyCard>
 
@@ -39,19 +39,19 @@
       <TextBlock TextWrapping="Wrap" Foreground="#191970" FontSize="12"
                  Text="官方原始版本,未做性能修改" />
       <local:MyButton Margin="0,8,0,10" Width="250" Height="32"
-                 Text="启动 Minecraft 1.16.5 原版" ToolTip="低配电脑建议启用该版本" EventType="启动游戏" EventData="1.16.5" />
+                 Text="启动 Minecraft 1.18.1 原版" ToolTip="低配电脑建议启用该版本" EventType="启动游戏" EventData="1.18.1" />
       <TextBlock TextWrapping="Wrap" Foreground="#191970" FontSize="12"
                  Text="原版进阶,可使用光影,电脑性能消耗一般 (建议使用 Pro 版)" />
       <local:MyButton Margin="0,8,0,10" Width="250" Height="32"
-                 Text="启动 Minecraft 1.16.5 高清光影" ToolTip="建议跳过该版本" EventType="启动游戏" EventData="1.16.5-高清光影" />
+                 Text="启动 Minecraft 1.18.1 高清光影" ToolTip="建议跳过该版本" EventType="启动游戏" EventData="1.18.1-高清光影" />
 	  <TextBlock TextWrapping="Wrap" Foreground="#191970" FontSize="12"
                  Text="高清光影进阶版, 光影+Tab小头像伪正版,电脑性能消耗一般" />
       <local:MyButton Margin="0,8,0,10" Width="250" Height="32" 
-                 Text="启动 Minecraft 1.16.5 高清光影 Pro" ToolTip="中低配电脑建议启用该版本" EventType="启动游戏" EventData="1.16.5-高清光影 Pro" ColorType="Highlight"/>
+                 Text="启动 Minecraft 1.18.1 高清光影 Pro" ToolTip="中低配电脑建议启用该版本" EventType="启动游戏" EventData="1.18.1-高清光影 Pro" ColorType="Highlight"/>
 	  <TextBlock TextWrapping="Wrap" Foreground="#191970" FontSize="12"
                  Text="高配版, 模组+高清光影+Tab头像伪正版" />
       <local:MyButton Margin="0,8,0,10" Width="250" Height="32"
-                 Text="启动 Minecraft 1.16.5 高配版" ToolTip="中高配电脑建议启用该版本" EventType="启动游戏" EventData="1.16.5-高配版" ColorType="red"/>
+                 Text="启动 Minecraft 1.18.1 高配版" ToolTip="中高配电脑建议启用该版本" EventType="启动游戏" EventData="1.18.1-高配版" ColorType="red"/>
 	  
 	<!-- 
      *并不好用,因为服务器信号需要刷新才出来导致会无法一次性进入*	
@@ -104,7 +104,7 @@
         </StackPanel>
 	    
 		<TextBlock TextWrapping="Wrap" Margin="0,20,0,0" HorizontalAlignment="Center"
-                   Text="Copyright © 2014-2021" />
+                   Text="Copyright © 2014-2022" />
 		
     </StackPanel>
 </local:MyCard>
