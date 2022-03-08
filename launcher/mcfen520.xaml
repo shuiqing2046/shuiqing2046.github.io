@@ -13,7 +13,7 @@
                    Text="它还有许多可以调整的属性：Margin 调整边距，FontSize 调整字号，TextWrapping 则是启用自动换行。" />
     </StackPanel>
 </local:MyCard> -->
-<local:MyCard Title="温馨提示 (点击展开)" Margin="0,0,0,20" CanSwap="True" IsSwaped="True">
+<local:MyCard Title="温馨提示 (点击展开)" Margin="0,0,0,28" CanSwap="True" IsSwaped="True">
     <StackPanel Margin="25,40,23,15">
         <local:MyHint Text="不要轻易相信陌生人,避免不当钱财损失" />
 		<local:MyHint Margin="0,8,0,2" Text="管理员联系方式: &#xA;QQ:      2136905074&#xA;Email:  angel@mcfen.net"/>
@@ -25,16 +25,16 @@
    </StackPanel>
 </local:MyCard>
 
-<local:MyCard Title="" Margin="0,0,0,20">
-    <StackPanel Margin="25,48,23,15">
+<local:MyCard Title="" Margin="0,0,0,25">
+    <StackPanel Margin="25,20,23,20">
 
-        <Image Height="150" HorizontalAlignment="Center" Source="https://s2.loli.net/2022/01/17/qSmzpuFR7iBs458.png"  />
+        <Image Height="160" HorizontalAlignment="Center" Source="https://s2.loli.net/2022/01/17/qSmzpuFR7iBs458.png"  />
     </StackPanel>
 	
 </local:MyCard>
 
 
-<local:MyCard Title="快捷启动 (点击展开)" Margin="0,0,0,45" CanSwap="True" IsSwaped="True" >
+<local:MyCard Title="快捷启动 (点击展开)" Margin="0,0,0,25" CanSwap="True" IsSwaped="True" >
     <StackPanel Margin="25,40,23,15">
       <TextBlock TextWrapping="Wrap" Foreground="#191970" FontSize="12"
                  Text="官方原始版本,未做性能修改" />
@@ -58,7 +58,7 @@
 	  <TextBlock TextWrapping="Wrap"
                  Text="自己启动并进入对应IP服务器" />
       <local:MyButton Margin="0,8,0,0" Width="250" Height="35"
-                 Text="使用 1.16.5 直接进入 Mcfen" EventType="启动游戏" EventData="1.16.5|mcfen.net" ToolTip="服务器 IP：mcfen.net" /> -->
+                 Text="使用 1.18.2 直接进入 Mcfen" EventType="启动游戏" EventData="1.18.2|mcfen.net" ToolTip="服务器 IP：mcfen.net" /> -->
     </StackPanel>
 </local:MyCard>
 
