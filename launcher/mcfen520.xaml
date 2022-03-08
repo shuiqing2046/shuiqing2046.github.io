@@ -28,7 +28,7 @@
 <local:MyCard Title="" Margin="0,0,0,20">
     <StackPanel Margin="25,48,23,15">
 
-        <Image Height="150" HorizontalAlignment="Center" Source="https://img12.360buyimg.com/ddimg/jfs/t1/164739/29/20776/49039/6084d8cdEefedab1d/feef82f59253fb02.png"  />
+        <Image Height="150" HorizontalAlignment="Center" Source="https://s2.loli.net/2022/01/17/qSmzpuFR7iBs458.png"  />
     </StackPanel>
 	
 </local:MyCard>
