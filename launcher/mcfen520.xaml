@@ -39,19 +39,19 @@
       <TextBlock TextWrapping="Wrap" Foreground="#191970" FontSize="12"
                  Text="官方原始版本,未做性能修改" />
       <local:MyButton Margin="0,8,0,10" Width="250" Height="32"
-                 Text="启动 Minecraft 1.18.1 原版" ToolTip="低配电脑建议启用该版本" EventType="启动游戏" EventData="1.18.1" />
+                 Text="启动 Minecraft 1.18.2 原版" ToolTip="低配电脑建议启用该版本" EventType="启动游戏" EventData="1.18.2" />
       <TextBlock TextWrapping="Wrap" Foreground="#191970" FontSize="12"
                  Text="原版进阶,可使用光影,电脑性能消耗一般 (建议使用 Pro 版)" />
       <local:MyButton Margin="0,8,0,10" Width="250" Height="32"
-                 Text="启动 Minecraft 1.18.1 高清光影" ToolTip="建议跳过该版本" EventType="启动游戏" EventData="1.18.1-高清光影" />
+                 Text="启动 Minecraft 1.18.2 高清光影" ToolTip="建议跳过该版本" EventType="启动游戏" EventData="1.18.2-高清光影" />
 	  <TextBlock TextWrapping="Wrap" Foreground="#191970" FontSize="12"
                  Text="高清光影进阶版, 光影+Tab小头像伪正版,电脑性能消耗一般" />
       <local:MyButton Margin="0,8,0,10" Width="250" Height="32" 
-                 Text="启动 Minecraft 1.18.1 高清光影 Pro" ToolTip="中低配电脑建议启用该版本" EventType="启动游戏" EventData="1.18.1-高清光影 Pro" ColorType="Highlight"/>
+                 Text="启动 Minecraft 1.18.2 高清光影 Pro" ToolTip="中低配电脑建议启用该版本" EventType="启动游戏" EventData="1.18.2-高清光影 Pro" ColorType="Highlight"/>
 	  <TextBlock TextWrapping="Wrap" Foreground="#191970" FontSize="12"
                  Text="高配版, 模组+高清光影+Tab头像伪正版" />
       <local:MyButton Margin="0,8,0,10" Width="250" Height="32"
-                 Text="启动 Minecraft 1.18.1 高配版" ToolTip="中高配电脑建议启用该版本" EventType="启动游戏" EventData="1.18.1-高配版" ColorType="red"/>
+                 Text="启动 Minecraft 1.18.2 高配版" ToolTip="中高配电脑建议启用该版本" EventType="启动游戏" EventData="1.18.2-高配版" ColorType="red"/>
 	  
 	<!-- 
      *并不好用,因为服务器信号需要刷新才出来导致会无法一次性进入*	
