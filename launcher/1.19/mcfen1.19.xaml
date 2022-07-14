@@ -45,11 +45,11 @@
       <local:MyButton Margin="0,8,0,10" Width="250" Height="32"
                  Text="启动 Minecraft 1.19 原版" ToolTip="低配电脑建议启用该版本" EventType="启动游戏" EventData="1.19" />
 	  <TextBlock TextWrapping="Wrap" Foreground="#191970" FontSize="12"
-                 Text="高清光影进阶版, 光影+Tab小头像伪正版,电脑性能消耗一般" />
+                 Text="高清光影+Tab伪正版小头像,电脑性能消耗一般" />
       <local:MyButton Margin="0,8,0,10" Width="250" Height="32" 
                  Text="启动 Minecraft 1.19 高清光影 Pro" ToolTip="中低配电脑建议启用该版本" EventType="启动游戏" EventData="1.19-高清光影 Pro" ColorType="Highlight"/>
 	  <TextBlock TextWrapping="Wrap" Foreground="#191970" FontSize="12"
-                 Text="高配版, 模组+高清光影+Tab头像伪正版" />
+                 Text="高配版, 模组+高清光影+Tab伪正版小头像" />
       <local:MyButton Margin="0,8,0,10" Width="250" Height="32"
                  Text="启动 Minecraft 1.19 高配版" ToolTip="中高配电脑建议启用该版本" EventType="启动游戏" EventData="1.19-高配版" ColorType="red"/>
 	  
