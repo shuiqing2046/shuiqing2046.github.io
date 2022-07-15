@@ -98,14 +98,14 @@
             
         </StackPanel>
       
-	   <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,10,0,0">
+	   <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,10,18,0">
             <local:MyButton Margin="0,5,0,0" Width="88" Height="35" HorizontalAlignment="Left" Padding="13,0,13,0"
                    Text="刷新主页" EventType="刷新主页" ToolTip="刷新当前页面" />
             
             
         </StackPanel>
 	    
-		<TextBlock TextWrapping="Wrap" Margin="0,20,0,0" HorizontalAlignment="Center"
+		<TextBlock TextWrapping="Wrap" Margin="0,20,18,0" HorizontalAlignment="Center"
                    Text="Copyright © 2014-2022" />
 		
     </StackPanel>
