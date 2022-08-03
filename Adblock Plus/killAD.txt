@@ -1,5 +1,5 @@
-[Adblock Plus 3.1]
-! Version: 20211218
+[Adblock Plus 3.2]
+! Version: 20220804
 ! Title: ABP by Mcfen
 ! Homepage: https://github.com/shuiqing2046/shuiqing2046.github.io/tree/master/Adblock%20Plus
 
