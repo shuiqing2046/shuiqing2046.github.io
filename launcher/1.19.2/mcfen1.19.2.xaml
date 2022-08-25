@@ -18,8 +18,8 @@
     <StackPanel Margin="23,16,23,16">
 
         <Image Height="150" HorizontalAlignment="Center" Source="https://mcfen-free.oss-cn-hongkong.aliyuncs.com/logo_260.png"  />
-	<TextBlock TextWrapping="Wrap" Foreground="#191970" FontSize="12"
-                 Text="[升级提示]: 有一个新版本已上线咯,赶快去升级吧~" />
+<!--	<TextBlock TextWrapping="Wrap" Foreground="#191970" FontSize="12"
+                 Text="[升级提示]: 有一个新版本已上线咯,赶快去升级吧~" /> -->
     </StackPanel>
 	
 </local:MyCard>
