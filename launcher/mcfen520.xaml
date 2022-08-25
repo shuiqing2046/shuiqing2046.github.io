@@ -18,7 +18,9 @@
     <StackPanel Margin="23,16,23,16">
 
         <Image Height="150" HorizontalAlignment="Center" Source="https://s2.loli.net/2022/01/17/qSmzpuFR7iBs458.png"  />
-    </StackPanel>
+ 	<TextBlock TextWrapping="Wrap" Foreground="#191970" FontSize="12"
+                 Text="[升级提示]: 有一个新版本已上线咯,赶快去升级吧~" />  
+	</StackPanel>
 	
 </local:MyCard>
 
