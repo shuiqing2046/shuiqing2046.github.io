@@ -14,8 +14,6 @@
 Text="管理员热情不高冷,欢迎咨询各种问题" />
 <local:MyButton Width="140" Height="35" HorizontalAlignment="Center" Padding="13,0,13,0"
 Text="查看特别提示" EventType="弹出窗口" EventData="特别提示|       服务器接受无偿捐助及内购付费增值业务,但并不会区分对待付费玩家,&#xA;收费仅为可有可无的姜太公钓鱼愿者上钩行为,有当然很好,没有也无所谓...&#xA;&#xA;       感激所有帮助过我们的朋友,但为了保障大家的合法权益不会给予任何&#xA;人特权,希望大家都能保持正常的心态进行游戏,不要害怕或者巴结管理员,有&#xA;任何问题都可以联系服务器管理员." />
-<TextBlock TextWrapping="Wrap" LineHeight="17" Margin="0,8,0,0" HorizontalAlignment="Center"
-Text="Copyright © 2014-2023" />
 </StackPanel>
 </local:MyCard>
 
@@ -59,8 +57,8 @@ Text="Copyright © 2014-2023" />
             
 		    <local:MyButton Margin="0,0,8,0" Width="109" Height="35" HorizontalAlignment="Left" Padding="13,0,13,0"
                    Text="赞助支持" EventType="打开网页" EventData="https://pay.mcfen.net" ToolTip="打开官网赞助支持页面" />
-            <local:MyButton Margin="0,0,8,0" Width="109" Height="35" HorizontalAlignment="Left" Padding="13,0,13,0"
-                   Text="捐助支持" EventType="打开网页" EventData="https://pay.mcfen.net/dear_friend" ToolTip="打开官网捐助支持页面" />
+            <local:MyButton Margin="0,0,8,0" Width="109" Height="35" HorizontalAlignment="Left" Padding="13,0,13,0" ColorType="Red"
+                   Text="招新宣传" EventType="打开网页" EventData="https://www.mcfen.net/main" ToolTip="打开官网招新宣传镜像帖" />
 		    <local:MyButton Margin="0,0,8,0" Width="109" Height="35" HorizontalAlignment="Left" Padding="13,0,13,0" ColorType="Highlight"
                    Text="白名单申请" EventType="打开网页" EventData="https://520.mcfen.net/dear_friend/support" ToolTip="打开官网白名单申请介绍页面" />
         </StackPanel>
